@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Boston Power Usage</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Timeline CSS -->
+    <link href="/static/css/timeline.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/static/css/sb-admin-2.css" rel="stylesheet">
+
+    <!--JQuery UI -->
+    <link rel="stylesheet" type="text/css" href="/static/css/jquery-ui.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/jquery-ui.structure.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/jquery-ui.theme.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script>
+        $(document).ready(function() {
+            $( "#tabs" ).tabs();
+        });
+    </script>
+
+</head>
+
+<body>
+
+
+        <!-- Navigation -->
+        <div class="container-fluid">
+            <p class="navbar-text"><a href="/" style="text-decoration:none;"><h2>Boston Power Usage</h2></a></p>
+            <ul class="nav nav-tabs">
+                <li role="presentation"><a href="/">UI</a></li>
+                <li role="presentation" class="active"><a href="/showDashboard">Dashboard</a></li>
+            </ul>
+        </div>
+        
+        <div class="container">
+            <div id="tabs">
+            <ul>
+                <li><a href="#tabs-1">Boston Daily Consumption Pattern</a></li>
+                <li><a href="#tabs-2">School Daily Consumption</a></li>
+                <li><a href="#tabs-3">Site Daily Consumption</a></li>
+                <li><a href="#tabs-4">Performance Measure</a></li>
+                <li><a href="#tabs-5">Analysis with Power BI</a></li>
+            </ul>
+            <div id="tabs-1">
+                <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1020px; height: 969px;'><noscript><a href='#'><img alt='Boston Building Power Consumption ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonDailyConsumptionPattern&#47;BostonBuildingsStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1020' height='969' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='BostonDailyConsumptionPattern&#47;BostonBuildingsStory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BostonDailyConsumptionPattern&#47;BostonBuildingsStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>
+            </div>
+            <div id="tabs-2">
+                <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1020px; height: 1033px;'><noscript><a href='#'><img alt='Is your School environment friendly? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SC&#47;SCHOOLDAILYCONSUMPTION&#47;SchoolStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1020' height='1033' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='SCHOOLDAILYCONSUMPTION&#47;SchoolStory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SC&#47;SCHOOLDAILYCONSUMPTION&#47;SchoolStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>
+            </div>
+            <div id="tabs-3">
+                <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1020px; height: 1033px;'><noscript><a href='#'><img alt='Find out how much power you consumed in 2014 !!! ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SI&#47;SITEDAILYCONSUMPTION&#47;SiteStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1020' height='1033' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='SITEDAILYCONSUMPTION&#47;SiteStory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SI&#47;SITEDAILYCONSUMPTION&#47;SiteStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>
+            </div>
+            <div id="tabs-4">
+                <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1020px; height: 1033px;'><noscript><a href='#'><img alt='Performance Measurement by Power Factor ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StoryforDailyData&#47;PerformanceMeasures&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1020' height='1033' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='views&#47;StoryforDailyData&#47;PerformanceMeasures?:embed=y&amp;:display_count=y&amp;:showTabs=y' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;StoryforDailyData&#47;PerformanceMeasures&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>    
+            </div>
+            <div id="tabs-5">
+                <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjQwMDhlYzctOWFhNS00ZDlhLTk1MjktYzdhN2ZkZGMxZDgyIiwidCI6IjZhYmZjNzNmLWRhNjQtNDEzNy05ZjlmLTE1ZmFhZTU2ZjY4NSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+            </div>
+            </div>
+            </div>
+    
+    
+        <!-- /#page-wrapper -->
+
+    <!-- /#wrapper -->
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/static/js/sb-admin-2.js"></script>
+
+</body>
+
+</html>
