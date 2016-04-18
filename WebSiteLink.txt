@@ -1,0 +1,3 @@
+http://vishwashah.pythonanywhere.com/
+
+All visualizations are under dashboard panel.
