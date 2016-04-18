@@ -1,0 +1,1397 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.0">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="198" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>COB-SCH.JOSIAH QUINCY.2014.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Account" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="Date" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="Channel" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="Units" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="0:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="1:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="2:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="3:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="4:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="5:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="6:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="7:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="8:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="9:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="10:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="11:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="12:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="13:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="14:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="15:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="16:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="17:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="18:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="19:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="20:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="21:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="22:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:05" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:10" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:15" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:20" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:25" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:30" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:35" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:40" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:45" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:50" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="23:55" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="24:00" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="318" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="Account" selected="True" />
+            <SelectField field="Date" selected="True" />
+            <SelectField field="Units" selected="True" />
+            <SelectField field="0:05" selected="True" />
+            <SelectField field="0:10" selected="True" />
+            <SelectField field="0:15" selected="True" />
+            <SelectField field="0:20" selected="True" />
+            <SelectField field="0:25" selected="True" />
+            <SelectField field="0:30" selected="True" />
+            <SelectField field="0:35" selected="True" />
+            <SelectField field="0:40" selected="True" />
+            <SelectField field="0:45" selected="True" />
+            <SelectField field="0:50" selected="True" />
+            <SelectField field="0:55" selected="True" />
+            <SelectField field="1:00" selected="True" />
+            <SelectField field="1:05" selected="True" />
+            <SelectField field="1:10" selected="True" />
+            <SelectField field="1:15" selected="True" />
+            <SelectField field="1:20" selected="True" />
+            <SelectField field="1:25" selected="True" />
+            <SelectField field="1:30" selected="True" />
+            <SelectField field="1:35" selected="True" />
+            <SelectField field="1:40" selected="True" />
+            <SelectField field="1:45" selected="True" />
+            <SelectField field="1:50" selected="True" />
+            <SelectField field="1:55" selected="True" />
+            <SelectField field="2:00" selected="True" />
+            <SelectField field="2:05" selected="True" />
+            <SelectField field="2:10" selected="True" />
+            <SelectField field="2:15" selected="True" />
+            <SelectField field="2:20" selected="True" />
+            <SelectField field="2:25" selected="True" />
+            <SelectField field="2:30" selected="True" />
+            <SelectField field="2:35" selected="True" />
+            <SelectField field="2:40" selected="True" />
+            <SelectField field="2:45" selected="True" />
+            <SelectField field="2:50" selected="True" />
+            <SelectField field="2:55" selected="True" />
+            <SelectField field="3:00" selected="True" />
+            <SelectField field="3:05" selected="True" />
+            <SelectField field="3:10" selected="True" />
+            <SelectField field="3:15" selected="True" />
+            <SelectField field="3:20" selected="True" />
+            <SelectField field="3:25" selected="True" />
+            <SelectField field="3:30" selected="True" />
+            <SelectField field="3:35" selected="True" />
+            <SelectField field="3:40" selected="True" />
+            <SelectField field="3:45" selected="True" />
+            <SelectField field="3:50" selected="True" />
+            <SelectField field="3:55" selected="True" />
+            <SelectField field="4:00" selected="True" />
+            <SelectField field="4:05" selected="True" />
+            <SelectField field="4:10" selected="True" />
+            <SelectField field="4:15" selected="True" />
+            <SelectField field="4:20" selected="True" />
+            <SelectField field="4:25" selected="True" />
+            <SelectField field="4:30" selected="True" />
+            <SelectField field="4:35" selected="True" />
+            <SelectField field="4:40" selected="True" />
+            <SelectField field="4:45" selected="True" />
+            <SelectField field="4:50" selected="True" />
+            <SelectField field="4:55" selected="True" />
+            <SelectField field="5:00" selected="True" />
+            <SelectField field="5:05" selected="True" />
+            <SelectField field="5:10" selected="True" />
+            <SelectField field="5:15" selected="True" />
+            <SelectField field="5:20" selected="True" />
+            <SelectField field="5:25" selected="True" />
+            <SelectField field="5:30" selected="True" />
+            <SelectField field="5:35" selected="True" />
+            <SelectField field="5:40" selected="True" />
+            <SelectField field="5:45" selected="True" />
+            <SelectField field="5:50" selected="True" />
+            <SelectField field="5:55" selected="True" />
+            <SelectField field="6:00" selected="True" />
+            <SelectField field="6:05" selected="True" />
+            <SelectField field="6:10" selected="True" />
+            <SelectField field="6:15" selected="True" />
+            <SelectField field="6:20" selected="True" />
+            <SelectField field="6:25" selected="True" />
+            <SelectField field="6:30" selected="True" />
+            <SelectField field="6:35" selected="True" />
+            <SelectField field="6:40" selected="True" />
+            <SelectField field="6:45" selected="True" />
+            <SelectField field="6:50" selected="True" />
+            <SelectField field="6:55" selected="True" />
+            <SelectField field="7:00" selected="True" />
+            <SelectField field="7:05" selected="True" />
+            <SelectField field="7:10" selected="True" />
+            <SelectField field="7:15" selected="True" />
+            <SelectField field="7:20" selected="True" />
+            <SelectField field="7:25" selected="True" />
+            <SelectField field="7:30" selected="True" />
+            <SelectField field="7:35" selected="True" />
+            <SelectField field="7:40" selected="True" />
+            <SelectField field="7:45" selected="True" />
+            <SelectField field="7:50" selected="True" />
+            <SelectField field="7:55" selected="True" />
+            <SelectField field="8:00" selected="True" />
+            <SelectField field="8:05" selected="True" />
+            <SelectField field="8:10" selected="True" />
+            <SelectField field="8:15" selected="True" />
+            <SelectField field="8:20" selected="True" />
+            <SelectField field="8:25" selected="True" />
+            <SelectField field="8:30" selected="True" />
+            <SelectField field="8:35" selected="True" />
+            <SelectField field="8:40" selected="True" />
+            <SelectField field="8:45" selected="True" />
+            <SelectField field="8:50" selected="True" />
+            <SelectField field="8:55" selected="True" />
+            <SelectField field="9:00" selected="True" />
+            <SelectField field="9:05" selected="True" />
+            <SelectField field="9:10" selected="True" />
+            <SelectField field="9:15" selected="True" />
+            <SelectField field="9:20" selected="True" />
+            <SelectField field="9:25" selected="True" />
+            <SelectField field="9:30" selected="True" />
+            <SelectField field="9:35" selected="True" />
+            <SelectField field="9:40" selected="True" />
+            <SelectField field="9:45" selected="True" />
+            <SelectField field="9:50" selected="True" />
+            <SelectField field="9:55" selected="True" />
+            <SelectField field="10:00" selected="True" />
+            <SelectField field="10:05" selected="True" />
+            <SelectField field="10:10" selected="True" />
+            <SelectField field="10:15" selected="True" />
+            <SelectField field="10:20" selected="True" />
+            <SelectField field="10:25" selected="True" />
+            <SelectField field="10:30" selected="True" />
+            <SelectField field="10:35" selected="True" />
+            <SelectField field="10:40" selected="True" />
+            <SelectField field="10:45" selected="True" />
+            <SelectField field="10:50" selected="True" />
+            <SelectField field="10:55" selected="True" />
+            <SelectField field="11:00" selected="True" />
+            <SelectField field="11:05" selected="True" />
+            <SelectField field="11:10" selected="True" />
+            <SelectField field="11:15" selected="True" />
+            <SelectField field="11:20" selected="True" />
+            <SelectField field="11:25" selected="True" />
+            <SelectField field="11:30" selected="True" />
+            <SelectField field="11:35" selected="True" />
+            <SelectField field="11:40" selected="True" />
+            <SelectField field="11:45" selected="True" />
+            <SelectField field="11:50" selected="True" />
+            <SelectField field="11:55" selected="True" />
+            <SelectField field="12:00" selected="True" />
+            <SelectField field="12:05" selected="True" />
+            <SelectField field="12:10" selected="True" />
+            <SelectField field="12:15" selected="True" />
+            <SelectField field="12:20" selected="True" />
+            <SelectField field="12:25" selected="True" />
+            <SelectField field="12:30" selected="True" />
+            <SelectField field="12:35" selected="True" />
+            <SelectField field="12:40" selected="True" />
+            <SelectField field="12:45" selected="True" />
+            <SelectField field="12:50" selected="True" />
+            <SelectField field="12:55" selected="True" />
+            <SelectField field="13:00" selected="True" />
+            <SelectField field="13:05" selected="True" />
+            <SelectField field="13:10" selected="True" />
+            <SelectField field="13:15" selected="True" />
+            <SelectField field="13:20" selected="True" />
+            <SelectField field="13:25" selected="True" />
+            <SelectField field="13:30" selected="True" />
+            <SelectField field="13:35" selected="True" />
+            <SelectField field="13:40" selected="True" />
+            <SelectField field="13:45" selected="True" />
+            <SelectField field="13:50" selected="True" />
+            <SelectField field="13:55" selected="True" />
+            <SelectField field="14:00" selected="True" />
+            <SelectField field="14:05" selected="True" />
+            <SelectField field="14:10" selected="True" />
+            <SelectField field="14:15" selected="True" />
+            <SelectField field="14:20" selected="True" />
+            <SelectField field="14:25" selected="True" />
+            <SelectField field="14:30" selected="True" />
+            <SelectField field="14:35" selected="True" />
+            <SelectField field="14:40" selected="True" />
+            <SelectField field="14:45" selected="True" />
+            <SelectField field="14:50" selected="True" />
+            <SelectField field="14:55" selected="True" />
+            <SelectField field="15:00" selected="True" />
+            <SelectField field="15:05" selected="True" />
+            <SelectField field="15:10" selected="True" />
+            <SelectField field="15:15" selected="True" />
+            <SelectField field="15:20" selected="True" />
+            <SelectField field="15:25" selected="True" />
+            <SelectField field="15:30" selected="True" />
+            <SelectField field="15:35" selected="True" />
+            <SelectField field="15:40" selected="True" />
+            <SelectField field="15:45" selected="True" />
+            <SelectField field="15:50" selected="True" />
+            <SelectField field="15:55" selected="True" />
+            <SelectField field="16:00" selected="True" />
+            <SelectField field="16:05" selected="True" />
+            <SelectField field="16:10" selected="True" />
+            <SelectField field="16:15" selected="True" />
+            <SelectField field="16:20" selected="True" />
+            <SelectField field="16:25" selected="True" />
+            <SelectField field="16:30" selected="True" />
+            <SelectField field="16:35" selected="True" />
+            <SelectField field="16:40" selected="True" />
+            <SelectField field="16:45" selected="True" />
+            <SelectField field="16:50" selected="True" />
+            <SelectField field="16:55" selected="True" />
+            <SelectField field="17:00" selected="True" />
+            <SelectField field="17:05" selected="True" />
+            <SelectField field="17:10" selected="True" />
+            <SelectField field="17:15" selected="True" />
+            <SelectField field="17:20" selected="True" />
+            <SelectField field="17:25" selected="True" />
+            <SelectField field="17:30" selected="True" />
+            <SelectField field="17:35" selected="True" />
+            <SelectField field="17:40" selected="True" />
+            <SelectField field="17:45" selected="True" />
+            <SelectField field="17:50" selected="True" />
+            <SelectField field="17:55" selected="True" />
+            <SelectField field="18:00" selected="True" />
+            <SelectField field="18:05" selected="True" />
+            <SelectField field="18:10" selected="True" />
+            <SelectField field="18:15" selected="True" />
+            <SelectField field="18:20" selected="True" />
+            <SelectField field="18:25" selected="True" />
+            <SelectField field="18:30" selected="True" />
+            <SelectField field="18:35" selected="True" />
+            <SelectField field="18:40" selected="True" />
+            <SelectField field="18:45" selected="True" />
+            <SelectField field="18:50" selected="True" />
+            <SelectField field="18:55" selected="True" />
+            <SelectField field="19:00" selected="True" />
+            <SelectField field="19:05" selected="True" />
+            <SelectField field="19:10" selected="True" />
+            <SelectField field="19:15" selected="True" />
+            <SelectField field="19:20" selected="True" />
+            <SelectField field="19:25" selected="True" />
+            <SelectField field="19:30" selected="True" />
+            <SelectField field="19:35" selected="True" />
+            <SelectField field="19:40" selected="True" />
+            <SelectField field="19:45" selected="True" />
+            <SelectField field="19:50" selected="True" />
+            <SelectField field="19:55" selected="True" />
+            <SelectField field="20:00" selected="True" />
+            <SelectField field="20:05" selected="True" />
+            <SelectField field="20:10" selected="True" />
+            <SelectField field="20:15" selected="True" />
+            <SelectField field="20:20" selected="True" />
+            <SelectField field="20:25" selected="True" />
+            <SelectField field="20:30" selected="True" />
+            <SelectField field="20:35" selected="True" />
+            <SelectField field="20:40" selected="True" />
+            <SelectField field="20:45" selected="True" />
+            <SelectField field="20:50" selected="True" />
+            <SelectField field="20:55" selected="True" />
+            <SelectField field="21:00" selected="True" />
+            <SelectField field="21:05" selected="True" />
+            <SelectField field="21:10" selected="True" />
+            <SelectField field="21:15" selected="True" />
+            <SelectField field="21:20" selected="True" />
+            <SelectField field="21:25" selected="True" />
+            <SelectField field="21:30" selected="True" />
+            <SelectField field="21:35" selected="True" />
+            <SelectField field="21:40" selected="True" />
+            <SelectField field="21:45" selected="True" />
+            <SelectField field="21:50" selected="True" />
+            <SelectField field="21:55" selected="True" />
+            <SelectField field="22:00" selected="True" />
+            <SelectField field="22:05" selected="True" />
+            <SelectField field="22:10" selected="True" />
+            <SelectField field="22:15" selected="True" />
+            <SelectField field="22:20" selected="True" />
+            <SelectField field="22:25" selected="True" />
+            <SelectField field="22:30" selected="True" />
+            <SelectField field="22:35" selected="True" />
+            <SelectField field="22:40" selected="True" />
+            <SelectField field="22:45" selected="True" />
+            <SelectField field="22:50" selected="True" />
+            <SelectField field="22:55" selected="True" />
+            <SelectField field="23:00" selected="True" />
+            <SelectField field="23:05" selected="True" />
+            <SelectField field="23:10" selected="True" />
+            <SelectField field="23:15" selected="True" />
+            <SelectField field="23:20" selected="True" />
+            <SelectField field="23:25" selected="True" />
+            <SelectField field="23:30" selected="True" />
+            <SelectField field="23:35" selected="True" />
+            <SelectField field="23:40" selected="True" />
+            <SelectField field="23:45" selected="True" />
+            <SelectField field="23:50" selected="True" />
+            <SelectField field="23:55" selected="True" />
+            <SelectField field="24:00" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="558" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Account" />
+            <Field field="Units" />
+            <Field field="DateTime_Out" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Account" selected="False" />
+            <Field field="Date" selected="False" />
+            <Field field="Units" selected="False" />
+            <Field field="0:05" selected="True" />
+            <Field field="0:10" selected="True" />
+            <Field field="0:15" selected="True" />
+            <Field field="0:20" selected="True" />
+            <Field field="0:25" selected="True" />
+            <Field field="0:30" selected="True" />
+            <Field field="0:35" selected="True" />
+            <Field field="0:40" selected="True" />
+            <Field field="0:45" selected="True" />
+            <Field field="0:50" selected="True" />
+            <Field field="0:55" selected="True" />
+            <Field field="1:00" selected="True" />
+            <Field field="1:05" selected="True" />
+            <Field field="1:10" selected="True" />
+            <Field field="1:15" selected="True" />
+            <Field field="1:20" selected="True" />
+            <Field field="1:25" selected="True" />
+            <Field field="1:30" selected="True" />
+            <Field field="1:35" selected="True" />
+            <Field field="1:40" selected="True" />
+            <Field field="1:45" selected="True" />
+            <Field field="1:50" selected="True" />
+            <Field field="1:55" selected="True" />
+            <Field field="2:00" selected="True" />
+            <Field field="2:05" selected="True" />
+            <Field field="2:10" selected="True" />
+            <Field field="2:15" selected="True" />
+            <Field field="2:20" selected="True" />
+            <Field field="2:25" selected="True" />
+            <Field field="2:30" selected="True" />
+            <Field field="2:35" selected="True" />
+            <Field field="2:40" selected="True" />
+            <Field field="2:45" selected="True" />
+            <Field field="2:50" selected="True" />
+            <Field field="2:55" selected="True" />
+            <Field field="3:00" selected="True" />
+            <Field field="3:05" selected="True" />
+            <Field field="3:10" selected="True" />
+            <Field field="3:15" selected="True" />
+            <Field field="3:20" selected="True" />
+            <Field field="3:25" selected="True" />
+            <Field field="3:30" selected="True" />
+            <Field field="3:35" selected="True" />
+            <Field field="3:40" selected="True" />
+            <Field field="3:45" selected="True" />
+            <Field field="3:50" selected="True" />
+            <Field field="3:55" selected="True" />
+            <Field field="4:00" selected="True" />
+            <Field field="4:05" selected="True" />
+            <Field field="4:10" selected="True" />
+            <Field field="4:15" selected="True" />
+            <Field field="4:20" selected="True" />
+            <Field field="4:25" selected="True" />
+            <Field field="4:30" selected="True" />
+            <Field field="4:35" selected="True" />
+            <Field field="4:40" selected="True" />
+            <Field field="4:45" selected="True" />
+            <Field field="4:50" selected="True" />
+            <Field field="4:55" selected="True" />
+            <Field field="5:00" selected="True" />
+            <Field field="5:05" selected="True" />
+            <Field field="5:10" selected="True" />
+            <Field field="5:15" selected="True" />
+            <Field field="5:20" selected="True" />
+            <Field field="5:25" selected="True" />
+            <Field field="5:30" selected="True" />
+            <Field field="5:35" selected="True" />
+            <Field field="5:40" selected="True" />
+            <Field field="5:45" selected="True" />
+            <Field field="5:50" selected="True" />
+            <Field field="5:55" selected="True" />
+            <Field field="6:00" selected="True" />
+            <Field field="6:05" selected="True" />
+            <Field field="6:10" selected="True" />
+            <Field field="6:15" selected="True" />
+            <Field field="6:20" selected="True" />
+            <Field field="6:25" selected="True" />
+            <Field field="6:30" selected="True" />
+            <Field field="6:35" selected="True" />
+            <Field field="6:40" selected="True" />
+            <Field field="6:45" selected="True" />
+            <Field field="6:50" selected="True" />
+            <Field field="6:55" selected="True" />
+            <Field field="7:00" selected="True" />
+            <Field field="7:05" selected="True" />
+            <Field field="7:10" selected="True" />
+            <Field field="7:15" selected="True" />
+            <Field field="7:20" selected="True" />
+            <Field field="7:25" selected="True" />
+            <Field field="7:30" selected="True" />
+            <Field field="7:35" selected="True" />
+            <Field field="7:40" selected="True" />
+            <Field field="7:45" selected="True" />
+            <Field field="7:50" selected="True" />
+            <Field field="7:55" selected="True" />
+            <Field field="8:00" selected="True" />
+            <Field field="8:05" selected="True" />
+            <Field field="8:10" selected="True" />
+            <Field field="8:15" selected="True" />
+            <Field field="8:20" selected="True" />
+            <Field field="8:25" selected="True" />
+            <Field field="8:30" selected="True" />
+            <Field field="8:35" selected="True" />
+            <Field field="8:40" selected="True" />
+            <Field field="8:45" selected="True" />
+            <Field field="8:50" selected="True" />
+            <Field field="8:55" selected="True" />
+            <Field field="9:00" selected="True" />
+            <Field field="9:05" selected="True" />
+            <Field field="9:10" selected="True" />
+            <Field field="9:15" selected="True" />
+            <Field field="9:20" selected="True" />
+            <Field field="9:25" selected="True" />
+            <Field field="9:30" selected="True" />
+            <Field field="9:35" selected="True" />
+            <Field field="9:40" selected="True" />
+            <Field field="9:45" selected="True" />
+            <Field field="9:50" selected="True" />
+            <Field field="9:55" selected="True" />
+            <Field field="10:00" selected="True" />
+            <Field field="10:05" selected="True" />
+            <Field field="10:10" selected="True" />
+            <Field field="10:15" selected="True" />
+            <Field field="10:20" selected="True" />
+            <Field field="10:25" selected="True" />
+            <Field field="10:30" selected="True" />
+            <Field field="10:35" selected="True" />
+            <Field field="10:40" selected="True" />
+            <Field field="10:45" selected="True" />
+            <Field field="10:50" selected="True" />
+            <Field field="10:55" selected="True" />
+            <Field field="11:00" selected="True" />
+            <Field field="11:05" selected="True" />
+            <Field field="11:10" selected="True" />
+            <Field field="11:15" selected="True" />
+            <Field field="11:20" selected="True" />
+            <Field field="11:25" selected="True" />
+            <Field field="11:30" selected="True" />
+            <Field field="11:35" selected="True" />
+            <Field field="11:40" selected="True" />
+            <Field field="11:45" selected="True" />
+            <Field field="11:50" selected="True" />
+            <Field field="11:55" selected="True" />
+            <Field field="12:00" selected="True" />
+            <Field field="12:05" selected="True" />
+            <Field field="12:10" selected="True" />
+            <Field field="12:15" selected="True" />
+            <Field field="12:20" selected="True" />
+            <Field field="12:25" selected="True" />
+            <Field field="12:30" selected="True" />
+            <Field field="12:35" selected="True" />
+            <Field field="12:40" selected="True" />
+            <Field field="12:45" selected="True" />
+            <Field field="12:50" selected="True" />
+            <Field field="12:55" selected="True" />
+            <Field field="13:00" selected="True" />
+            <Field field="13:05" selected="True" />
+            <Field field="13:10" selected="True" />
+            <Field field="13:15" selected="True" />
+            <Field field="13:20" selected="True" />
+            <Field field="13:25" selected="True" />
+            <Field field="13:30" selected="True" />
+            <Field field="13:35" selected="True" />
+            <Field field="13:40" selected="True" />
+            <Field field="13:45" selected="True" />
+            <Field field="13:50" selected="True" />
+            <Field field="13:55" selected="True" />
+            <Field field="14:00" selected="True" />
+            <Field field="14:05" selected="True" />
+            <Field field="14:10" selected="True" />
+            <Field field="14:15" selected="True" />
+            <Field field="14:20" selected="True" />
+            <Field field="14:25" selected="True" />
+            <Field field="14:30" selected="True" />
+            <Field field="14:35" selected="True" />
+            <Field field="14:40" selected="True" />
+            <Field field="14:45" selected="True" />
+            <Field field="14:50" selected="True" />
+            <Field field="14:55" selected="True" />
+            <Field field="15:00" selected="True" />
+            <Field field="15:05" selected="True" />
+            <Field field="15:10" selected="True" />
+            <Field field="15:15" selected="True" />
+            <Field field="15:20" selected="True" />
+            <Field field="15:25" selected="True" />
+            <Field field="15:30" selected="True" />
+            <Field field="15:35" selected="True" />
+            <Field field="15:40" selected="True" />
+            <Field field="15:45" selected="True" />
+            <Field field="15:50" selected="True" />
+            <Field field="15:55" selected="True" />
+            <Field field="16:00" selected="True" />
+            <Field field="16:05" selected="True" />
+            <Field field="16:10" selected="True" />
+            <Field field="16:15" selected="True" />
+            <Field field="16:20" selected="True" />
+            <Field field="16:25" selected="True" />
+            <Field field="16:30" selected="True" />
+            <Field field="16:35" selected="True" />
+            <Field field="16:40" selected="True" />
+            <Field field="16:45" selected="True" />
+            <Field field="16:50" selected="True" />
+            <Field field="16:55" selected="True" />
+            <Field field="17:00" selected="True" />
+            <Field field="17:05" selected="True" />
+            <Field field="17:10" selected="True" />
+            <Field field="17:15" selected="True" />
+            <Field field="17:20" selected="True" />
+            <Field field="17:25" selected="True" />
+            <Field field="17:30" selected="True" />
+            <Field field="17:35" selected="True" />
+            <Field field="17:40" selected="True" />
+            <Field field="17:45" selected="True" />
+            <Field field="17:50" selected="True" />
+            <Field field="17:55" selected="True" />
+            <Field field="18:00" selected="True" />
+            <Field field="18:05" selected="True" />
+            <Field field="18:10" selected="True" />
+            <Field field="18:15" selected="True" />
+            <Field field="18:20" selected="True" />
+            <Field field="18:25" selected="True" />
+            <Field field="18:30" selected="True" />
+            <Field field="18:35" selected="True" />
+            <Field field="18:40" selected="True" />
+            <Field field="18:45" selected="True" />
+            <Field field="18:50" selected="True" />
+            <Field field="18:55" selected="True" />
+            <Field field="19:00" selected="True" />
+            <Field field="19:05" selected="True" />
+            <Field field="19:10" selected="True" />
+            <Field field="19:15" selected="True" />
+            <Field field="19:20" selected="True" />
+            <Field field="19:25" selected="True" />
+            <Field field="19:30" selected="True" />
+            <Field field="19:35" selected="True" />
+            <Field field="19:40" selected="True" />
+            <Field field="19:45" selected="True" />
+            <Field field="19:50" selected="True" />
+            <Field field="19:55" selected="True" />
+            <Field field="20:00" selected="True" />
+            <Field field="20:05" selected="True" />
+            <Field field="20:10" selected="True" />
+            <Field field="20:15" selected="True" />
+            <Field field="20:20" selected="True" />
+            <Field field="20:25" selected="True" />
+            <Field field="20:30" selected="True" />
+            <Field field="20:35" selected="True" />
+            <Field field="20:40" selected="True" />
+            <Field field="20:45" selected="True" />
+            <Field field="20:50" selected="True" />
+            <Field field="20:55" selected="True" />
+            <Field field="21:00" selected="True" />
+            <Field field="21:05" selected="True" />
+            <Field field="21:10" selected="True" />
+            <Field field="21:15" selected="True" />
+            <Field field="21:20" selected="True" />
+            <Field field="21:25" selected="True" />
+            <Field field="21:30" selected="True" />
+            <Field field="21:35" selected="True" />
+            <Field field="21:40" selected="True" />
+            <Field field="21:45" selected="True" />
+            <Field field="21:50" selected="True" />
+            <Field field="21:55" selected="True" />
+            <Field field="22:00" selected="True" />
+            <Field field="22:05" selected="True" />
+            <Field field="22:10" selected="True" />
+            <Field field="22:15" selected="True" />
+            <Field field="22:20" selected="True" />
+            <Field field="22:25" selected="True" />
+            <Field field="22:30" selected="True" />
+            <Field field="22:35" selected="True" />
+            <Field field="22:40" selected="True" />
+            <Field field="22:45" selected="True" />
+            <Field field="22:50" selected="True" />
+            <Field field="22:55" selected="True" />
+            <Field field="23:00" selected="True" />
+            <Field field="23:05" selected="True" />
+            <Field field="23:10" selected="True" />
+            <Field field="23:15" selected="True" />
+            <Field field="23:20" selected="True" />
+            <Field field="23:25" selected="True" />
+            <Field field="23:30" selected="True" />
+            <Field field="23:35" selected="True" />
+            <Field field="23:40" selected="True" />
+            <Field field="23:45" selected="True" />
+            <Field field="23:50" selected="True" />
+            <Field field="23:55" selected="True" />
+            <Field field="24:00" selected="True" />
+            <Field field="DateTime_Out" selected="False" />
+            <Field field="*Unknown" selected="False" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="906" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\vanwu\AppData\Local\Temp\Engine_7696_e39ea664354849ca95b2c15e2f8bb42a_\Engine_10488_64bf67602cab44e081e59b7d79f2e860_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="666" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Account" />
+            <Field field="DateTime_Out" />
+            <Field field="Name" />
+          </GroupFields>
+          <HeaderField field="Units" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Account" size="254" source="CrossTab:Group:First:" type="V_String" />
+            <Field name="DateTime_Out" source="CrossTab:Group:First:" type="Date" />
+            <Field name="Name" size="5" source="CrossTab:Group:First:" type="String" />
+            <Field name="kVARh" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="kWh" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+            <Field name="Power_Factor" size="254" source="File: C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\CY2014 COB Interval Data 2\COB-SCH.JOSIAH QUINCY.2014.csv" type="V_String" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Account" order="Asc" />
+            <Field field="DateTime_Out" order="Asc" />
+            <Field field="Name" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="450" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Date</InputFieldName>
+          <Format>MM/dd/yyyy</Format>
+          <OutputFieldName>DateTime_Out</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert Date From:
+MM/dd/yyyy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="834" y="642" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="kVARh" selected="True" />
+            <SelectField field="kWh" selected="True" />
+            <SelectField field="Power_Factor" selected="True" />
+            <SelectField field="DateTime_Out" selected="False" rename="Date" />
+            <SelectField field="Name" selected="False" rename="Time" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1098" y="546" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\vanwu\Desktop\INFO 7390 ADS\Assignment3\Single Site Data- SCH - Josiah Quincy with time.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Single Site Data- SCH - Josiah Quincy with time.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="654" y="654" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField field="Hour" type="Int32" size="4" expression="IF Length([Name])==4 THEN ToNumber(Left([Name],1))+1 ELSEIF [Name] == '24:00' THEN 24 ELSE ToNumber(Left([Name],2))+1 ENDIF" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Hour=IF Length([Name])==4 THEN ToNumber(Left([Name],1))+1 ELS...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="738" y="654" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Account" action="GroupBy" rename="Account" />
+            <SummarizeField field="DateTime_Out" action="GroupBy" rename="DateTime" />
+            <SummarizeField field="Hour" action="GroupBy" rename="Hour" />
+            <SummarizeField field="kVARh" action="Sum" rename="kVARh" />
+            <SummarizeField field="kWh" action="Sum" rename="kWh" />
+            <SummarizeField field="Power_Factor" action="Avg" rename="Power_Factor" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings>
+        <Position x="930" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="mod_name">X</Value>
+          <Value name="target_field">kWh</Value>
+          <Value name="use_covar">False</Value>
+          <Value name="covars">""</Value>
+          <Value name="use_covar_mean">True</Value>
+          <Value name="use_covar_diff">False</Value>
+          <Value name="freq_hourly">False</Value>
+          <Value name="freq_daily">False</Value>
+          <Value name="freq_weekdays">False</Value>
+          <Value name="freq_weekly">True</Value>
+          <Value name="freq_monthly">False</Value>
+          <Value name="freq_quarterly">False</Value>
+          <Value name="freq_annually">False</Value>
+          <Value name="freq_other">False</Value>
+          <Value name="custom_auto">False</Value>
+          <Value name="first_dif">False</Value>
+          <Value name="level_first_dif">0</Value>
+          <Value name="max_p">2</Value>
+          <Value name="max_q">2</Value>
+          <Value name="seas_dif">False</Value>
+          <Value name="level_seas_dif">0</Value>
+          <Value name="s_max_P">1</Value>
+          <Value name="s_max_Q">1</Value>
+          <Value name="ic_aic">False</Value>
+          <Value name="ic_aicc">True</Value>
+          <Value name="ic_bic">False</Value>
+          <Value name="full_enum">False</Value>
+          <Value name="max_order">5</Value>
+          <Value name="m_core">False</Value>
+          <Value name="drift">True</Value>
+          <Value name="box_cox">False</Value>
+          <Value name="lambda">0.00</Value>
+          <Value name="full_custom">False</Value>
+          <Value name="p">0</Value>
+          <Value name="d">0</Value>
+          <Value name="q">0</Value>
+          <Value name="S_P">0</Value>
+          <Value name="S_D">0</Value>
+          <Value name="S_Q">0</Value>
+          <Value name="m_drift">False</Value>
+          <Value name="m_box_cox">False</Value>
+          <Value name="m_lambda">0.00</Value>
+          <Value name="series_start">False</Value>
+          <Value name="start_year">1980</Value>
+          <Value name="start_month_qtr">1</Value>
+          <Value name="forecast_periods">6</Value>
+          <Value name="alteryx.week.US">True</Value>
+          <Value name="alteryx.week.UK">False</Value>
+          <Value name="alteryx.week.ISO8601">False</Value>
+          <Value name="inches">True</Value>
+          <Value name="in.w">5.00</Value>
+          <Value name="in.h">5.50</Value>
+          <Value name="centimeters">False</Value>
+          <Value name="cm.w">13.00</Value>
+          <Value name="cm.h">14.95</Value>
+          <Value name="graph.resolution">1x</Value>
+          <Value name="pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\ARIMA.yxmc" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1050" y="750" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\vanwu\AppData\Local\Temp\Engine_7696_e39ea664354849ca95b2c15e2f8bb42a_\Engine_10488_bb62320dd27a41b781dd263aba43152a_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1098" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\vanwu\AppData\Local\Temp\Engine_7696_e39ea664354849ca95b2c15e2f8bb42a_\Engine_10488_9e3261be979f4b889b27c86c07e8178c_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1098" y="810" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\vanwu\AppData\Local\Temp\Engine_7696_e39ea664354849ca95b2c15e2f8bb42a_\Engine_10488_c3d81fa24d9f4001bdf101ff40b711c9_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="990" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <StartValue>1</StartValue>
+          <FieldName>Time</FieldName>
+          <FieldType>Int32</FieldType>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Report" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Interactive" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Single Site Prep - Josiah Quincy</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
